@@ -13,6 +13,8 @@ This program visualizes three sorting algorithms - Insertion Sort, Bubble Sort, 
 
 1. Install Python 3.x from [python.org](https://www.python.org/downloads/).
 2. Install pygame using pip:
+   `pip install pygame`
+
 
 ## Usage
 
