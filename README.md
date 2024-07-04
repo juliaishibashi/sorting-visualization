@@ -31,3 +31,7 @@ Run the `main()` function in the `sorting_visualizer.py` script. Use the followi
 ## Description
 
 The visualization window displays a random list of integers. You can choose a sorting algorithm and the order (ascending or descending) using the specified keys. Press SPACE to start sorting, and observe the sorting process visually. 
+
+## Project Idea
+
+This project idea is inspired by the [YouTube video](https://www.youtube.com/watch?v=twRidO-_vqQ&t=3993s). The video provided valuable insights and guidance that helped shape this project.
