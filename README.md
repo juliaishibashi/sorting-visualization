@@ -1,2 +1,2 @@
 # sorting-visualization
-![Uploading git.gif…]()
+![Example GIF](https://github.com/juliaishibashi/sorting-visualization/blob/main/sort.gif)
